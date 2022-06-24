@@ -24,7 +24,7 @@ namespace LinkedList
                     temp = temp.next;
                 }
                 temp.next = node;
-
+             
             }
             Console.WriteLine("{0} inserted into linked list", node.data);
 
