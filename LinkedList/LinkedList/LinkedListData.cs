@@ -27,7 +27,7 @@ namespace LinkedList
              
             }
             Console.WriteLine("{0} inserted into linked list", node.data);
-
+             
         }
         public void DisPlay()
         {
