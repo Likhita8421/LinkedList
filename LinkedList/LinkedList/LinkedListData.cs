@@ -18,8 +18,8 @@ namespace LinkedList
             }
             else
             {
-                Node temp = head;
-                while (temp.next != null)
+                Node temp = head;  
+                while (temp.next != null) 
                 {
                     temp = temp.next;
                 }
